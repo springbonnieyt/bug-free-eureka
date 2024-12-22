@@ -265,3 +265,14 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set game difficulty to Normal]
 [15:01:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pollita_33 lost connection: Timed out
 [15:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pollita_33 left the game
+[15:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[15:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[15:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[15:14:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:14:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:14:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:14:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[15:14:28] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:14:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:14:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:14:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
