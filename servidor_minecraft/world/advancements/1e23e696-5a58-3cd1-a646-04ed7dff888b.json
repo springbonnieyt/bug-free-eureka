@@ -206,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-22 14:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-22 14:40:53 +0000"
@@ -421,6 +427,12 @@
       "has_planks": "2024-12-22 14:40:47 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-12-22 14:58:27 +0000"
+    },
+    "done": false
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {

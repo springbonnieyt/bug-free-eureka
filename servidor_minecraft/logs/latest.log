@@ -259,3 +259,9 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [14:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set the time to 1000]
 [14:51:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set pollita_33's spawn point to (-650, 80, -139)]
 [14:51:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set own game mode to Survival Mode]
+[14:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set game difficulty to Peaceful]
+[15:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set own game mode to Creative Mode]
+[15:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set own game mode to Survival Mode]
+[15:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set game difficulty to Normal]
+[15:01:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pollita_33 lost connection: Timed out
+[15:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pollita_33 left the game
