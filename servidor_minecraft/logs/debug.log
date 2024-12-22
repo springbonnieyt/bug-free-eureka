@@ -9245,3 +9245,78 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 
 [14:44:37] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 55 times.
 
+[14:45:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:45:27] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 60 times.
+
+[14:45:27] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 60 times.
+
+[14:45:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:46:17] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 65 times.
+
+[14:46:17] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 65 times.
+
+[14:46:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:47:07] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 70 times.
+
+[14:47:07] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 70 times.
+
+[14:47:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pollita_33 is bleeding...
+[14:47:28] [Server thread/INFO] [tombstone]: The death event of the player pollita_33 was cancelled by another mod
+[14:47:28] [Server thread/INFO] [tombstone]: pollita_33 has successfully been saved
+[14:47:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <pollita_33> ayuda
+[14:47:57] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 75 times.
+
+[14:47:57] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 75 times.
+
+[14:48:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule keepinventory has been updated to true
+[14:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pollita_33 was slain by Assimilated Villager
+[14:48:28] [Server thread/INFO] [tombstone]: The last known grave of pollita_33 is at location [name:Last Grave, x:-13, y:63, z:-35] in the dimension 0
+[14:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pollita_33 has made the advancement [Your First Grave]
+[14:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pollita_33 has made the advancement [The Most Useful Key]
+[14:48:47] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 80 times.
+
+[14:48:47] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 80 times.
+
+[14:48:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set own game mode to Creative Mode]
+[14:48:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:49:37] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 85 times.
+
+[14:49:37] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 85 times.
+
+[14:49:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:50:27] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 90 times.
+
+[14:50:27] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 90 times.
+
+[14:50:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set the time to 1000]
+[14:51:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:51:17] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 95 times.
+
+[14:51:17] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 95 times.
+
+[14:51:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set pollita_33's spawn point to (-650, 80, -139)]
+[14:51:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pollita_33: Set own game mode to Survival Mode]
+[14:51:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:52:07] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 100 times.
+
+[14:52:07] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 100 times.
+
+[14:52:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:52:57] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 105 times.
+
+[14:52:57] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 105 times.
+
+[14:53:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:53:47] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 110 times.
+
+[14:53:47] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 110 times.
+
+[14:54:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:54:37] [Server thread/DEBUG] [FML]: The world 37d7c7cc (world) may have leaked: seen 115 times.
+
+[14:54:37] [Server thread/DEBUG] [FML]: The world 6aea6dbf (world) may have leaked: seen 115 times.
+
+[14:54:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
