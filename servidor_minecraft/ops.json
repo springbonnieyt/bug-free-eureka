@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1e23e696-5a58-3cd1-a646-04ed7dff888b",
+    "name": "pollita_33",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
